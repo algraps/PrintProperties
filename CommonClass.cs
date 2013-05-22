@@ -2,7 +2,8 @@
  * Use WCF and LINQ to Sharepoint to integrate sharepoint
  * Author: Alessandro Graps
  * Year: 2013
- */using System;
+ */
+ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
